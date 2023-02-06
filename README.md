@@ -76,8 +76,6 @@
 - Update Free
 - If banned = `REFUND`
 
-A website that I created to introduce myself from start to finish. hope you like it [Serups.me](http://Serups.me/)
-
 ---
 
   <br>
