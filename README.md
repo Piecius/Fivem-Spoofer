@@ -51,11 +51,6 @@
 
 --- 
 
-  <p align="center">
-    <a href="https://discord.gg/2euDQqzD8Y">
-        <img title="Serups server discord" alt="Serups discord" src="https://discordapp.com/api/guilds/923947526552432731/widget.png?style=banner2"/>
-    </a>
-</p> 
  
 ## 💬 ・[Discord](https://discord.gg/PM7wATbpXt) 
 
