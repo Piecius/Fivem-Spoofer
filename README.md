@@ -7,20 +7,12 @@
 </p>
 
 
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Serups/Fivem-CFX-Spoofer?style=flat-square"/>
-  <img src="https://img.shields.io/github/last-commit/Serups/Fivem-CFX-Spoofer?style=flat-square"/>
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=Serups-CFX-Spoofer&metric=ncloc"/>
-  <img src="https://img.shields.io/github/stars/Serups/Fivem-CFX-Spoofer?color=5ac18e&label=Stars&style=flat-square"/>
-
-</p>
    
           
 ## <a id="content"></a>🌐 〢 Read
 
 - Follow the video I wrote for a better understanding.
-- Carefully read the instructions below | Install Here: [Download](https://github.com/Serups/Fivem-CFX-Spoofer/releases/tag/6125)
+- Carefully read the instructions below.
   
 ---
 
